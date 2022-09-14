@@ -1,0 +1,224 @@
+*{
+padding: 0px;
+margin : 0px;
+
+}
+
+
+
+
+/*------------------------------------------------------------------------------------------------------------*/
+
+
+#tudo{
+width: 1349px;
+
+}
+
+
+
+#cabeçalho{
+
+	text-align: center;
+	padding: 15px;
+	background-color: #f7b700;
+	
+
+
+}
+
+
+
+
+.link_cabeçalho {
+
+	text-decoration: none;
+	padding-right: 10px;
+	margin: 10px;
+	
+}
+
+
+
+
+
+
+
+
+
+
+body{
+	font-size: 1em;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	background-color: #EBEBEB;
+}
+
+h1{
+
+	font-size: 2.5em;
+	padding: 20px;
+	color: #535353;
+
+}
+
+
+h2{
+	color: #F6B300;
+
+
+}
+
+
+h3{
+
+background-color: #C0C0C0;
+color: #535353;
+width: 220px;
+padding: 5px;
+margin: 5px;
+font-size: 20px;
+}
+
+
+
+
+
+
+
+#lateral{
+
+	width: 280px;
+	clear: both;
+	float: right;
+
+	position: relative;
+	bottom: 3215px;
+	right: 164px;
+}
+
+
+.postagem-lateral{
+
+	background-color: white;
+	padding: 8px;
+	margin: 5px;
+	width: 240px;		
+	font-size: 14px;	
+
+	
+}
+
+.p-lateral{
+
+margin: 5px;
+
+}
+
+#p-lateral2{
+
+font-size: 16px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#postagens{
+	
+	width: 900px;
+	float: left;
+
+
+}
+
+
+.postagem-central{
+
+
+	background-color: white;
+	padding: 20px;
+	margin: 15px;
+	width: 630px;
+	position: relative;
+	left: 200px;
+	
+}
+
+
+
+.data{
+	font-size: 14px;
+	border-bottom: 1px solid #F2F2F2;
+	padding-bottom: 4px ;
+
+}
+
+
+
+#rodape{
+	text-align: center;
+	padding: 14px;
+	margin: 15px;
+	width: 900px;
+	position: relative;
+	left: 200px;
+	background-color: #C0C0C0;
+	clear: both;
+
+}
+
+
+
+/* ------------------------------------------------------------ CONFIGURAÇÕES DE LINKS -----------------------------------------*/
+
+
+#cabeçalho	a:link, #cabeçalho a:visited{
+
+	color: white;
+
+}
+
+
+ #cabeçalho a:hover {
+
+background: #FFF;
+color: #f7b700;
+padding: 5px;
+
+}
+
+
+
+a:link, a:visited {
+
+color: #f7b700;
+text-decoration: none;
+}
+
+ a:hover{
+
+color: #f7b700;
+text-decoration: underline;
+
+}
+
+
+
+
+/* ------------------------------------------------------------ CONFIGURAÇÕES DE LINKS -------------------------------------*/
